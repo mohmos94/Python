@@ -1,6 +1,6 @@
 # Python
 
-## Python project
+## Python project 
 
 Contains project for learning Python.
 
