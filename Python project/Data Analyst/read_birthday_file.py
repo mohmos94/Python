@@ -1,6 +1,6 @@
 import csv
 
-filename = "business analyst/file/birthday.txt"
+filename = "Data Analyst/file/birthday.txt"
 
 count = 0
 

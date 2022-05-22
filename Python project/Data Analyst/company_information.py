@@ -11,9 +11,9 @@ with open(filename, 'r') as file:
     for element in header:
         print(element, end=" ")
     for row in reader:
+        count += 1
         rows.append(row)
         for element in row:
-            count+=1
             print(element, end=" ")
         print()
 print("number of row under are: {}".format(count))
