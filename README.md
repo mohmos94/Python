@@ -13,6 +13,6 @@ Contains project for learning Python.
   - Created a folder where the code for the csv reading lies
   - Added extra folder for the csv file 
 
-## Lis of object-oriented programing project
+### Lis of object-oriented programing project
 - Budget APP
 
