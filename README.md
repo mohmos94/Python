@@ -15,4 +15,3 @@ Contains project for learning Python.
 
 ### Lis of object-oriented programing project
 - Budget APP
-
